@@ -8,7 +8,7 @@ experience for understanding their mechanics and applications. The project aims 
 with practical implementation, offering insights into algorithmic efficiency and usability.
 
 # Tools and Technologies
-The system is implemented in Java using the Swing framework on NetBeans. The graphical interface allows users
+The system is implemented in Java using the Swing framework on NetBeans. The graphical interface allows users
 to interactively input points and line segments. A clear
 diagram illustrates the system architecture, depicting how
 the algorithms are integrated into the user interface. This
