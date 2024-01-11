@@ -1,4 +1,4 @@
-# Convex-Hull-and-Line-Intersection
+# Design and Analysis of Convex Hull and Line Intersection Algorithms
 
 # Introduction
 Geometric algorithms play a crucial role in computer science, offering solutions for spatial problem-solving. This
